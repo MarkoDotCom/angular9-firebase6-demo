@@ -7,8 +7,8 @@ import { Observable } from 'rxjs';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Test Firebase';
-  description = 'Angular 9 / Firebase 6 / Demo';
+  title = 'Angular 9 + Firebase 6';
+  description = ' Demo';
   itemValue = '';
   items: Observable<any[]>;
 

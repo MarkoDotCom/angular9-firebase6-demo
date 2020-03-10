@@ -9,17 +9,17 @@
       <div class="form-group">
         <label for="item">Item</label>
         <input type="text" class="form-control"
-          placeholder="Enter content..." id="item"
+          placeholder="Ingrese un nombre..." id="item"
           required [(ngModel)]="itemValue" name="item">
       </div>
  
       <div class="btn-group">
-        <button type="submit" class="btn btn-success">Submit</button>
+        <button type="submit" class="btn btn-success">Enviar a Firebase</button>
       </div>
     </form>
   </div>
  
-  <h2>Content from Firebase</h2>
+  <h2>Contenido Remoto</h2>
   <div class="col-md-3">
     <pre *ngFor="let item of items | async">{{item.content}}</pre>
   </div>
