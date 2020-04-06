@@ -12,9 +12,9 @@
 
 - Instalacion librerías:
 
-`$ npm install`
+1. `npm install`
 
-`$ npm run`
+2. `npm run`
 
 ------------
 
