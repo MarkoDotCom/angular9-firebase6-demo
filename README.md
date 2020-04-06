@@ -11,11 +11,10 @@
 
 ## Configuración de proyecto:
 
-- Iniciar consola y ejectuar:
+1. Iniciar consola y ejectuar:
+- `npm install` para descargar packages necesarios para la compilación.
 
-1. `npm install` para descargar packages necesarios para la compilación.
-
-2. `npm run` para compilar e iniciar el proyecto.
+- `npm run` para compilar e iniciar el proyecto.
 
 ## Vista previa:
 ![](https://drive.google.com/uc?id=1XlAA8EroM855rOvU3D1xr1NIbIdec3gh)
