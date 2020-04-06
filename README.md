@@ -1,4 +1,3 @@
-------------
 ## Notas Importantes
 
 - Este proyecto esta diseñado a modo de DEMOSTRACIÓN y su fin es dar una noción general de las capacidades que puedo ofrecer como programador.
@@ -18,9 +17,5 @@
 
 2. `npm run` para compilar e iniciar el proyecto.
 
-------------
-
 ## Vista previa:
 ![](https://drive.google.com/uc?id=1XlAA8EroM855rOvU3D1xr1NIbIdec3gh)
-
-------------
