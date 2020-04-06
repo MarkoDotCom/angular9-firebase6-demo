@@ -3,12 +3,17 @@
 
 - Este proyecto esta diseñado a modo de DEMOSTRACIÓN y su fin es dar una noción general de las capacidades que puedo ofrecer como programador.
 
-- El proyecto utiliza distintas librerias de Angular (9.0.4):
+- Librerías Angular (9.0.4):
 
 1. @angular/fire
 2. @angular/fire/database
 3. @angular/forms
 4. @angular/core
+
+-Instalacion librerías:
+
+> npm install
+> npm run
 
 ------------
 
