@@ -9,7 +9,7 @@
 3. @angular/forms
 4. @angular/core
 
-## Configuración de proyecto:
+## Configuración de proyecto
 
 1. Iniciar consola y ejectuar:
 - `npm install` para descargar packages necesarios para la compilación.
