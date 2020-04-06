@@ -10,11 +10,11 @@
 3. @angular/forms
 4. @angular/core
 
-- Instalacion librerías:
+### Configuración de proyecto:
 
-1. `npm install`
+1. `npm install` para descargar packages necesarios para la compilación.
 
-2. `npm run`
+2. `npm run` para compilar e iniciar el proyecto.
 
 ------------
 
