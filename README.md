@@ -10,9 +10,10 @@
 3. @angular/forms
 4. @angular/core
 
--Instalacion librerías:
+- Instalacion librerías:
 
 `$ npm install`
+
 `$ npm run`
 
 ------------
